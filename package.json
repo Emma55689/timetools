@@ -1,0 +1,20 @@
+{
+  "name": "my-time-helper",
+  "version": "1.0.3",
+  "description": "Python library to help manipulate time and timestamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Emma55689",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Emma55689/timetools.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Emma55689/timetools/issues"
+  },
+  "homepage": "https://github.com/Emma55689/timetools"
+}
